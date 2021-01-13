@@ -20,6 +20,12 @@ double findMedian() - 返回目前所有元素的中位数。
 
 using namespace std;
 
+class MedianFinder{
+public:
+    
+}
+
+
 int main(){
     cout<<"hello world"<<endl;
     return 0; 
